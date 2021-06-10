@@ -1,9 +1,9 @@
-# System architecture
+# System Architecture
 
 Collection of architecture talks
 
 
-## Slack Messanger   
+## Slack Messenger   
 
 
 > Talk about how slack works / Websockets / Master-Master Database replica and issues ->
