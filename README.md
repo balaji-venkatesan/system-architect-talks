@@ -2,6 +2,10 @@
 
 Collection of architecture talks
 
+## YouTube
+> Scaling youtube, From single DB -> Master-Slave-Slave replica -> Sharding (Difficulty with sharding while handling DR (Disaster recovery)), -> introduction to vitess 
+> [Youtube](https://www.youtube.com/watch?v=5yDO-tmIoXY)
+
 
 ## Slack Messenger   
 
