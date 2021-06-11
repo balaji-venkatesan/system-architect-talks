@@ -18,3 +18,7 @@ Collection of architecture talks
 
 
 > Scaling slacks for 3x user  -> [Youtube](https://www.youtube.com/watch?v=_M-oHxknfnI&ab_channel=InfoQ)
+
+
+## Pinterest
+> Sharding vs clustering [Youtube](https://www.youtube.com/watch?v=fYnrtjO-Ne0&ab_channel=MySQL)
