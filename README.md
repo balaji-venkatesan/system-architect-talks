@@ -22,3 +22,5 @@ Collection of architecture talks
 
 ## Pinterest
 > Sharding vs clustering [Youtube](https://www.youtube.com/watch?v=fYnrtjO-Ne0&ab_channel=MySQL)
+
+> Scaling cache infrastructure with memcache and mcrouter (L7 memcache protocol proxy) [Medium Blog](https://medium.com/pinterest-engineering/scaling-cache-infrastructure-at-pinterest-422d6d294ece)
