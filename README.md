@@ -24,3 +24,7 @@ Collection of architecture talks
 > Sharding vs clustering [Youtube](https://www.youtube.com/watch?v=fYnrtjO-Ne0&ab_channel=MySQL)
 
 > Scaling cache infrastructure with memcache and mcrouter (L7 memcache protocol proxy) [Medium Blog](https://medium.com/pinterest-engineering/scaling-cache-infrastructure-at-pinterest-422d6d294ece)
+
+##Canva
+
+> Building a reactive microservice with redis as datastore,[Medium Blog](https://medium.com/canva/lessons-learnt-from-building-reactive-microservices-for-canva-live-789892c58b10)
