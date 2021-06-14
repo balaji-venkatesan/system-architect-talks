@@ -28,3 +28,7 @@ Collection of architecture talks
 ## Canva
 
 > Building a reactive microservice with redis as datastore,[Medium Blog](https://medium.com/canva/lessons-learnt-from-building-reactive-microservices-for-canva-live-789892c58b10)
+
+## Java
+
+> JVM architecture in details [Medium Blog](https://medium.com/platform-engineer/understanding-jvm-architecture-22c0ddf09722)
