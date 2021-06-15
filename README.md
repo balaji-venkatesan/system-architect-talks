@@ -29,6 +29,10 @@ Collection of architecture talks
 
 > Building a reactive microservice with redis as datastore,[Medium Blog](https://medium.com/canva/lessons-learnt-from-building-reactive-microservices-for-canva-live-789892c58b10)
 
+## Myntra
+
+> Scaling cache reads by 1000X | Four different approachs | *Near cahce (local cache + standalone)* | Benchmarking various framework [Medium Blog](https://medium.com/myntra-engineering/scaling-our-inventory-cache-reads-to-1000x-84a8be1f576e)
+
 ## Java
 
 > JVM architecture in details [Medium Blog](https://medium.com/platform-engineer/understanding-jvm-architecture-22c0ddf09722)
