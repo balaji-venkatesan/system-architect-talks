@@ -9,6 +9,7 @@ Collection of architecture talks
 
 ## Netflix
 > Edgar: distributed tracing -> with user meta info [Youtube](https://www.youtube.com/watch?v=zKOXTIovdb0&list=PLndbWGuLoHeYTBaqFu31Nac-19qsdUl_V&index=3&ab_channel=InfoQInfoQ)
+> how does offers and plans works [Medium Blog](https://netflixtechblog.com/growth-engineering-at-netflix-creating-a-scalable-offers-platform-69330136dd87) 
 
 ## Slack Messenger   
 
