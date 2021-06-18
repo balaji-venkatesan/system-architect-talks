@@ -25,6 +25,7 @@ Collection of architecture talks
 > Sharding vs clustering [Youtube](https://www.youtube.com/watch?v=fYnrtjO-Ne0&ab_channel=MySQL)
 
 > Scaling cache infrastructure with memcache and mcrouter (L7 memcache protocol proxy) [Medium Blog](https://medium.com/pinterest-engineering/scaling-cache-infrastructure-at-pinterest-422d6d294ece)
+> Building time series database [Medium Blog](https://medium.com/pinterest-engineering/goku-building-a-scalable-and-high-performant-time-series-database-system-a8ff5758a181)
 
 ## Canva
 
