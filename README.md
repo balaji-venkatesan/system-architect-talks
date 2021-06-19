@@ -43,3 +43,7 @@ Collection of architecture talks
 ## Java
 
 > JVM architecture in details [Medium Blog](https://medium.com/platform-engineer/understanding-jvm-architecture-22c0ddf09722)
+
+## Kafka
+
+> Debugging kafka producer consumer issue [Medium Blog](https://medium.com/gojekengineering/when-kafka-went-offshore-1245e0b52717)
