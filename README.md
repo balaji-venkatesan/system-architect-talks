@@ -44,6 +44,7 @@ Collection of architecture talks
 ## Java
 
 > JVM architecture in details [Medium Blog](https://medium.com/platform-engineer/understanding-jvm-architecture-22c0ddf09722)
+> Transaction in microservice [Medium Blog](https://medium.com/@milan.brankovic/transactions-in-microservices-49bdefdfb869)
 
 ## Kafka
 
