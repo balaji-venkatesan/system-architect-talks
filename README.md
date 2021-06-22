@@ -41,6 +41,9 @@ Collection of architecture talks
 
 > Evolution of API gateway [Blog](https://eng.uber.com/gatewayuberapi/)
 
+## Swiggy
+> Engineering issues with swiggy [Medium Blog](https://bytes.swiggy.com/engineering-challenges-at-swiggy-430dea6c86a3)
+
 ## Java
 
 > JVM architecture in details [Medium Blog](https://medium.com/platform-engineer/understanding-jvm-architecture-22c0ddf09722)
